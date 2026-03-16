@@ -7,7 +7,7 @@ import os
 POINTS_FILE = "points_astana_top100.csv"
 OUTPUT_FILE = "bus_traffic_dataset.csv"
 
-RADIUS_METERS = 300
+RADIUS_METERS = 1500
 
 
 def get_bus_positions():
